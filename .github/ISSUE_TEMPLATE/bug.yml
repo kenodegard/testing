@@ -5,7 +5,7 @@ labels:
 body:
   - type: markdown
     attributes:
-      value: |
+      value: >-
         Processing bug reports is time consuming so please fill out the
         following form as completely as possible. **The more complete you are
         the more likely we can provide a speedier response.**
@@ -45,7 +45,7 @@ body:
     id: info
     attributes:
       label: Conda Info
-      description: |
+      description: >-
         Let's collect some basic information about your conda install.
 
         Please run the following command from your command line and paste the
@@ -59,7 +59,7 @@ body:
     id: config
     attributes:
       label: Conda Config
-      description: |
+      description: >-
         Let's collect any customizations you may have for your conda install.
 
         Please run the following command from your command line and paste the
@@ -73,7 +73,7 @@ body:
     id: list
     attributes:
       label: Conda list
-      description: |
+      description: >-
         The packages installed into your environment can offer clues as to the
         problem you are facing.
 

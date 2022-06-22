@@ -5,7 +5,7 @@ labels:
 body:
   - type: markdown
     attributes:
-      value: |
+      value: >-
         Processing feature requests is time consuming so please fill out the
         following form as completely as possible. **The more complete you are
         the more likely we can provide a speedier response.**
